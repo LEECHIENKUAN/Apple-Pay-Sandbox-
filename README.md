@@ -15,6 +15,8 @@ United States
 註：可以參考最上方的網址是否有變更。
 
 參考網址：
-中文：http://www.jianshu.com/p/fdff56dc7ada
+
+中文：<a href='http://www.jianshu.com/p/fdff56dc7ada' >http://www.jianshu.com/p/fdff56dc7ada</a>
+
 英文：https://www.raywenderlich.com/87300/apple-pay-tutorial
 
