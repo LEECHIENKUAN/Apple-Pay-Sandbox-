@@ -7,3 +7,6 @@ Canada
 United Kingdom
 United States
 上面的四個地區，可以參考最上方的網址是否有變更。
+
+參考網址：
+http://www.jianshu.com/p/fdff56dc7ada
